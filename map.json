@@ -1,0 +1,22 @@
+{
+  "A40_HMI_ThunderNAR": {
+    "LoadDirectory": "A40_HMI_ThunderNAR_LoadDirectory",
+    "LoadRuleFile": "A40_HMI_ThunderNAR_LoadRuleFile",
+    "BuildWorkspace": "A40_HMI_ThunderNAR_BuildWorkspace"
+  },
+  "A40_Everett_HMI_Development": {
+    "LoadDirectory": "A40_Everett_HMI_Development_LoadDirectory",
+    "LoadRuleFile": "A40_Everett_HMI_Development_LoadRuleFile",
+    "BuildWorkspace": "A40_Everett_HMI_Development_BuildWorkspace"
+  },
+  "Amazon_ACU_RX130_P2_WS": {
+    "LoadDirectory": "Amazon_ACU_RX130_P2_WS_LoadDirectory",
+    "LoadRuleFile": "Amazon_ACU_RX130_P2_WS_LoadRuleFile",
+    "BuildWorkspace": "Amazon_ACU_RX130_P2_WS_BuildWorkspace"
+  },
+  "default": {
+    "LoadDirectory": "default_LoadDirectory",
+    "LoadRuleFile": "default_LoadRuleFile",
+    "BuildWorkspace": "default_BuildWorkspace"
+  }
+}
